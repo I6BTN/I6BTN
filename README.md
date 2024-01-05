@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @I6BTN
+- 🌱 I’m currently learning Python, Lua, HTML, and CSS
+- 📫 How to reach me: Email me at a39229116@gmail.com
